@@ -1,0 +1,1 @@
+The "Hotel Booking "  Power BI project  provide comprehensive insights into hotel booking patterns and trends. The analysis focuses on a dataset containing information about hotel bookings,  booking details, stay duration, and cancellation rate.
